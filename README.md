@@ -1,50 +1,27 @@
-# Welcome to your Expo app 👋
+# 🎧 PlayLite
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+PlayLite is a lightweight mobile audio app that allows users to listen to audio content in the background while using other apps.
 
-## Get started
+## 🚀 Features
+- Background audio playback
+- Play / Pause controls
+- Playlist support
+- Low data usage (audio-only streaming)
 
-1. Install dependencies
+## 📱 Built With
+- React Native (Expo)
+- expo-av
 
-   ```bash
-   npm install
-   ```
+## 💡 Vision
+To create a mobile-first audio platform optimized for:
+- Students
+- Podcasts
+- Music
+- Low-data environments (Africa-friendly)
 
-2. Start the app
+## 🔥 Status
+MVP (Minimum Viable Product) — actively being improved
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Made with ❤️ by Runyenyasa
